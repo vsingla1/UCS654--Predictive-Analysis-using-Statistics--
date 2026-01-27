@@ -12,9 +12,9 @@ where the parameters are defined as:
 $$a_r = 0.5 \times (r \bmod 7), \quad b_r = 0.3 \times (r \bmod 5 + 1)$$
 
 
-For roll number **102303812**, the values are:
+For roll number **102303806**, the values are:
 
-$$a_r = 1.0,\quad b_r = 0.8999$$
+$$a_r = 1.5,\quad b_r = 0.6$$
 
 Resulting transformation:
 
