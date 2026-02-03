@@ -58,7 +58,7 @@ topsis sample_input.csv "1,1,1,1" "+,+,+,+" output.csv
 
 ---
 ## Program 2: PyPI Package
-This implementation is available as a Python package on [`https://pypi.org/project/Topsis-Vansh-102303806/`](https://pypi.org/project/Topsis-Vansh-102203806/). You can easily install it via `pip`:
+This implementation is available as a Python package on [`https://pypi.org/project/Topsis-Vansh-102303806/`](https://pypi.org/project/Topsis-Vansh-102303806/). You can easily install it via `pip`:
 
 
 ## Input File Format
