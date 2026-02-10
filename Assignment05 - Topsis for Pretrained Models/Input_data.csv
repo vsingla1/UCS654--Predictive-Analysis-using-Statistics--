@@ -1,0 +1,7 @@
+Model,BLEU,ROUGE_L,BERTScore,Perplexity,InferenceTime_ms,ModelSize_MB,EaseOfFinetuning
+gpt2,16.5,25.8,0.84,12.1,120,500,4
+distilgpt2,15.2,24.1,0.81,13.5,85,260,5
+bart-base,16.0,25.0,0.83,12.8,160,440,3
+t5-small,14.8,23.9,0.80,14.2,140,220,4
+gpt-neo-125M,16.3,25.4,0.82,12.5,110,350,4
+opt-125m,15.9,24.8,0.82,12.9,105,350,4
